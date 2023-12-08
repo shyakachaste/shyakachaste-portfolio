@@ -22,10 +22,10 @@ I specialize in making websites look cool using CSS, and I'm proficient with too
 ## 📫 Get in Touch
 Feel free to reach out to me for collaboration, inquiries, or just to say hello!
 
-- 🌐 Portfolio: [shyakachaste.dev](https://shyakachaste.me)
-- 📧 Email: [shyaka@example.com](mailto:liochastej@gmail.com)
-- 🐦 Twitter: [@shyakachaste](https://twitter.com/Shyakachaste)
+- 🌐 Portfolio: [shyakachaste.me](https://shyakachaste.me)
+- 📧 Email: [Mailme](mailto:liochastej@gmail.com)
+- 🐦 Twitter: [@Shyakachaste](https://twitter.com/Shyakachaste)
 - 💼 LinkedIn: [Shyaka Chaste](https://www.linkedin.com/in/shyaka-chaste-982a32272/)
-- 📸 Instagram: [@shyakachaste](https://www.instagram.com/iamchaste.rw/)
+- 📸 Instagram: [@iamchaste](https://www.instagram.com/iamchaste.rw/)
 
 Let's build something amazing together! 🚀
