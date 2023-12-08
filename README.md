@@ -1,4 +1,5 @@
 # Shyaka Chaste - Full Stack Developer 👨‍💻
+![shyakachaste me_(Nest Hub Max)](https://github.com/shyakachaste/shyakachaste-portfolio/assets/121980393/9798e776-c854-4f7d-9a56-4a0fc6a18283)
 
 ## 🛠️ Services
 I am a passionate full-stack developer with expertise in various areas. Here are some of the services I offer:
